@@ -11,7 +11,7 @@ gem 'highline'
 gem 'pg', '~> 1.2.3'
 gem 'puma', '~> 5.5'
 gem 'rack-cors'
-gem 'rails', '~> 5.2.3'
+gem 'rails', '~> 5.2.6'
 gem 'rubocop'
 
 group :development do
