@@ -9,7 +9,7 @@ gem 'bcrypt'
 gem 'bootsnap', '>= 1.1.0', require: false
 gem 'highline'
 gem 'pg', '~> 0.18.4'
-gem 'puma', '~> 4.3'
+gem 'puma', '~> 5.5'
 gem 'rack-cors'
 gem 'rails', '~> 5.2.3'
 gem 'rubocop'
